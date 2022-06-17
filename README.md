@@ -1,6 +1,7 @@
 # main
 
-Falyan Zuril 065120702
+Masayu Aisyah Febrianti
+065118174
 
 ## Getting Started
 
